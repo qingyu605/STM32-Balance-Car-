@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32f1xx_hal_dma.h": "c",
+        "usart.h": "c",
+        "motor.h": "c",
+        "encoder.h": "c",
+        "i2c.h": "c",
+        "pid.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "oled_fonts.h": "c",
+        "bluetooth.h": "c"
+    },
+    "files.autoGuessEncoding": true,
+    "files.encoding": "gb2312"
+}
